@@ -38,7 +38,7 @@ My analysis of the movie industry, achieved by munching data and utilizing visua
 
 2. Microsoft is first focus on 3 main genres initially, Drama, Action, Adventure and Comedy (possibly Thrillers as fourth one). This because there is more information and most sales for genre type, and we should start production knowing where to focus. Now that we know this, since Microsoft knows now begin, the next step is discovering more about them. I also recommend to approach getting to know these genres further, extracting databases specifically for these genre types to extract detailed value as to what factors influence these genres.
 
-3.Microsoft is first focus  Adventure and Action productions, and consider Musicals. This because the worldwide gross in these  genre types provide the highest opportunity of worldwide gross earnings.  Now that we know this, since Microsoft wants to be profitable and drive up revenues, we now now where that is likely to occur.  I also recommend to approach getting to know these genres further, extracting databases specifically for these genre types to extract detailed value as to what factors influence these genres.
+   3.Microsoft is first focus  Adventure and Action productions, and consider Musicals. This because the worldwide gross in these  genre types provide the highest opportunity of worldwide gross earnings.  Now that we know this, since Microsoft wants to be profitable and drive up revenues, we now now where that is likely to occur.  I also recommend to approach getting to know these genres further, extracting databases specifically for these genre types to extract detailed value as to what factors influence these genres.
 
 
 ## Deliverables
@@ -48,4 +48,4 @@ There are three deliverables for this project:
 * A **non-technical presentation**
 * A **Jupyter Notebook**
 * A **GitHub repository**
-* A ** PDFs version of non-tenchnical and Jupyter notebook
+* PDFs version of non-tenchnical and Jupyter notebook
