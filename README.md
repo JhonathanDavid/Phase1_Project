@@ -1,7 +1,8 @@
 # Phase 1 Project 1- Microsoft Movie Industry Analysis
 
 ![awesome](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project-v2-3/master/awesome.gif)
-
+[
+](https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F95465af9-a6d7-49a0-a118-cc099a0d10ba.jpg?dpr=1&fit=scale-down&source=next&width=700)
 Now you will put your new skills to use with a large end-of-Phase project!
 
 In this project description, we will cover:
