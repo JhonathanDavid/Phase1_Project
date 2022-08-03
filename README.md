@@ -8,8 +8,8 @@ In this project description, the following will be covered:
 
 * [***Business Problem Overview:***](#project-overview) the project goal, audience, and datasets
 * [***Databases:***](#deliverables) the specific databases used 
-* [***Recommendations:***](#grading) 
-* [***Deliverables:***](#grading) 
+* [***Recommendations:***](#grading)  the 3 recommendations
+* [***Deliverables:***](#grading) what's included in this github
 ### Business Problem Overview
 
 Microsoft, an American multinational technology company that produces computer software, consumer electronics, personal computers, and related services headquartered at the Microsoft Redmond campus located in Redmond, Washington, United States, wishes to enter the movie industry as a strategic company objective given the high returns of companies in this industry.
