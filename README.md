@@ -1,5 +1,4 @@
-# Phase 1 Project Description
-
+# Phase 1 Project 1- Microsoft Movie Industry Analysis
 
 ![awesome](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project-v2-3/master/awesome.gif)
 
