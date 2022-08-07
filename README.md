@@ -65,3 +65,13 @@ There are three deliverables for this project:
 
 └──dsc-phase-1-project.ipynb (jupyter notebook used for modeling)
 
+
+# Repository Structure
+
+```
+├── data : data used for modeling
+├── images : images used in PPT and readme
+├── README.md : project information and repository structure
+├── dsc-phase-4-project-presentation.pptx : (Presentation for Stakeholders)
+└── dsc-phase-4-project.ipynb (jupyter notebook used for modeling)
+```
