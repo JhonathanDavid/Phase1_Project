@@ -51,10 +51,17 @@ There are three deliverables for this project:
 * PDFs version of non-tenchnical and Jupyter notebook
 
 
+
 ├── data : data used for modeling
+
+
 ├── images : images used in PPT and readme
+
 ├── README.md : project information and repository structure
+
 ├── dsc-phase-1-project-presentation.pptx : (Presentation for Stakeholders)
+
 ├──dsc-phase-1-project-presentation.pdf
+
 └──dsc-phase-1-project.ipynb (jupyter notebook used for modeling)
 
