@@ -58,8 +58,9 @@ There are three deliverables for this project:
 
 ```
 ├── data : data used for modeling
-├── images : images used in PPT and readme
+├── Module 1 PDF2-Additional_Recommendations : Jupyter Notebook post review
+├── Module 1 PDF 1- Jupyter Notebook : Initial Jupyter Notebook
+├── Presentation_PDF_Updated.pptx : (Presentation for Stakeholders)
 ├── README.md : project information and repository structure
-├── dsc-phase-1-project-presentation.pptx : (Presentation for Stakeholders)
-└── dsc-phase-1-project.ipynb (jupyter notebook used for modeling)
+└── index.ipynb (jupyter notebook used for modeling)
 ```
