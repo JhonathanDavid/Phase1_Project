@@ -59,7 +59,7 @@ There are three deliverables for this project:
 ```
 ├── data : data used for modeling
 ├── Module 1 PDF2-Additional_Recommendations : Jupyter Notebook post review
-├── Module 1 PDF 1- Jupyter Notebook : Initial Jupyter Notebook
+├── Module 1 PDF 1- Jupyter Notebook : Initial Jupyter Notebook in PDF version
 ├── Presentation_PDF_Updated.pptx : (Presentation for Stakeholders)
 ├── README.md : project information and repository structure
 └── index.ipynb (jupyter notebook used for modeling)
